@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung galaxy 9",
+      "price": "1000",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi 8",
+      "price": "1000",
+      "status": true
+    },
+    {
+      "name": "Samsung galaxy 12",
+      "price": "1000",
+      "status": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "I phone 8 plus+",
+      "price": "2000",
+      "status": true
+    }
+  ]
+}
